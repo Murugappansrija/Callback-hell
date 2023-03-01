@@ -1,0 +1,43 @@
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+.orange{
+  height: 33vh;
+  width: 100vw;
+    background: orange;
+   
+}
+.white{
+  height: 33vh;
+  width: 100vw;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.green{
+  height: 33vh;
+  width: 100vw;
+  background: green;
+}
+.blue{
+  width: 35vw;
+  height: 30vh;
+  border: 5px;
+  border-radius: 50%;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+p{
+  font-size: x-large;
+ font-family: fantasy;
+}
